@@ -1,4 +1,4 @@
-module github.com/theneverse/cube
+module github.com/theneverse/go-hammer
 
 go 1.17
 
