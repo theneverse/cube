@@ -7,6 +7,7 @@ require (
 	github.com/alibabacloud-go/dysmsapi-20170525/v2 v2.0.16
 	github.com/alibabacloud-go/tea v1.1.19
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.4+incompatible
+	github.com/zeromicro/go-zero v1.3.5
 )
 
 require (
@@ -30,7 +31,6 @@ require (
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/tjfoc/gmsm v1.3.2 // indirect
-	github.com/zeromicro/go-zero v1.3.5 // indirect
 	go.opentelemetry.io/otel v1.8.0 // indirect
 	go.opentelemetry.io/otel/trace v1.8.0 // indirect
 	go.uber.org/automaxprocs v1.5.1 // indirect
