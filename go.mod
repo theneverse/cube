@@ -7,6 +7,7 @@ require (
 	github.com/alibabacloud-go/dysmsapi-20170525/v2 v2.0.16
 	github.com/alibabacloud-go/tea v1.1.19
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.4+incompatible
+	github.com/google/uuid v1.3.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.0
 	github.com/zeromicro/go-zero v1.3.5
