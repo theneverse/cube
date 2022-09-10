@@ -7,10 +7,13 @@ require (
 	github.com/alibabacloud-go/dysmsapi-20170525/v2 v2.0.16
 	github.com/alibabacloud-go/tea v1.1.19
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.4+incompatible
+	github.com/fallais/logrus-lumberjack-hook v0.0.0-20210917073259-3227e1ab93b0
 	github.com/google/uuid v1.3.0
 	github.com/pkg/errors v0.9.1
+	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.8.0
 	github.com/zeromicro/go-zero v1.3.5
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/resty.v1 v1.12.0
 )
 
